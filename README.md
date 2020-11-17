@@ -12,4 +12,4 @@ You will need one thing installed to make this bot work. Simply open up a termin
 
 Once you have completed all of the above, you may run `node index.js` or create a bat file with `node index.js`
 
-> Created by CRPT0#0001
+> Created by CRPT0000
